@@ -1,0 +1,13 @@
+img.right {
+    float: right;
+    ;
+    margin-top: 0.5px;
+}
+
+.centre {
+    position: absolute;
+    width: 70%;
+    left: 15%;
+    background-color: skyblue;
+    padding: 3%;
+}
