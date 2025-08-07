@@ -1,0 +1,8 @@
+Adding multiple <br> tags make the age look working but is the worst practice (instead you can use the height and margin features in a class as I have shown) = -50
+First html file name should be index.html (you can give different names to second, third and so...on files) = -10
+you forgot to make me a collaborator in the GitHub repo = -40
+Regards and your name at the end of the email is missing = -20
+
+total = 300 - (50 + 10 + 40 + 20) = 180
+
+overall, nice work
