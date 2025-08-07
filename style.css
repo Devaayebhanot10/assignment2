@@ -1,6 +1,5 @@
 img.right {
     float: right;
-    ;
     margin-top: 0.5px;
 }
 
@@ -10,4 +9,9 @@ img.right {
     left: 15%;
     background-color: skyblue;
     padding: 3%;
+}
+
+.card{
+    min-height: 200px;
+    margin-bottom: 20px;
 }
